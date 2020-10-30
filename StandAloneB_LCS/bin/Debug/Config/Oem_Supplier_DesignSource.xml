@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!-- Version 1.0.0
+Created on Mar-09-2020
+For Different Customers, their exact name which should be printed in the title block are given here
+
+Version 2.0.0 Dated Mar-23-2020
+1. Added GESTAMP OEM.
+-->
+<OEMSupplierName>
+  <GM>
+    <Config Name="COMAU" Value="&quot;COMAU&quot;" />
+    <Config Name="VALIANT" Value="&quot;VALIANT INTERNATIONAL&quot;" />
+  </GM>
+  <CHRYSLER>
+    <Config Name="COMAU" Value="COMAU" />
+    <Config Name="VALIANT" Value="VALIANT" />
+  </CHRYSLER>
+  <FIAT>
+    <Config Name="COMAU" Value="COMAU" />
+  </FIAT>
+  <DAIMLER>
+    <Config Name="COMAU" Value="COMAU" />
+	<Config Name="VALIANT" Value="Valiant TMS INDIA" />
+  </DAIMLER>
+  <GESTAMP>
+    <Config Name="VALIANT" Value="VALIANT" />
+  </GESTAMP>
+</OEMSupplierName>

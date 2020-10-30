@@ -1,0 +1,315 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<OEMAttributes>
+  <!--OEM = CHRYSLER-->
+  <CHRYSLER>
+    <!--OEM = CHRYSLER SUPPLIER = COMAU-->
+    <COMAU>
+      <!--OEM = CHRYSLER SUPPLIER = COMAU DIVISION = NA-->
+      <NA>
+        <Attribute Name="PartName" Value="DETAIL_NAME" />
+        <Attribute Name="Shape" Value="DETAIL_SHAPE" />
+        <Attribute Name="SubDetailNumber" Value="SUB_DETAIL_NUMBER" />
+        <Attribute Name="Mass" Value="MASS" />
+        <Attribute Name="PurchaseOption" Value="PURCHASE_OPTION" />
+        <Attribute Name="StockSize" Value="STOCK_SIZE" />
+        <Attribute Name="StockSizeMetric" Value="STOCK_SIZE_METRIC" />
+        <Attribute Name="FinishTolerance" Value="FINISH_TOLERANCE" />
+        <Attribute Name="Quantity" Value="QUANTITY" />
+        <Attribute Name="Material" Value="DB_MATERIAL" />
+        <Attribute Name="FinishTolValue1" Value="6 MICRONS [V]" />
+        <Attribute Name="FinishTolValue2" Value="3 MICRONS [VV]" />
+        <Attribute Name="FinishTolValue3" Value="1 MICRONS [VVV]" />
+        <Attribute Name="Bom" Value="BOM" />
+        <Attribute Name="ClientPartName" Value="DB_PART_NAME" />
+        <Attribute Name="DetailSheet1" Value="SHT1" />
+		<Attribute Name="LayoutSheet1" Value="" />
+        <Attribute Name="LayoutSheet2" Value="SHT1" />
+        <Attribute Name="LayoutSheet3" Value="SHT2" />
+        <Attribute Name="Sheet" Value="SHT" />
+        <Attribute Name="MMToInchConversation" Value="25.4" />
+        <Attribute Name="ClientStockSize" Value="STOCK_SIZE" />
+        <Attribute Name="ToolClass" Value="DB_SOURCE" />
+        <Attribute Name="ToolID" Value="DB_NAAMS" />
+		<Attribute Name="AltPurch" Value="DB_ALT_PURCH" />
+		<Attribute Name="FinishTolValue1OnSymbol" Value="6" />
+		<Attribute Name="FinishTolValue2OnSymbol" Value="3" />
+		<Attribute Name="FinishTolValue3OnSymbol" Value="1" />
+      </NA>
+    </COMAU>
+    <!--OEM = CHRYSLER SUPPLIER = VALIANT-->
+    <VALIANT>
+      <!--OEM = CHRYSLER SUPPLIER = VALIANT DIVISION = NA-->
+      <NA>
+        <Attribute Name="PartName" Value="DETAIL_NAME" />
+        <Attribute Name="Shape" Value="DETAIL_SHAPE" />
+		<Attribute Name="SubDetailNumber" Value="SUB_DETAIL_NUMBER" />
+        <Attribute Name="Mass" Value="MASS" />
+        <Attribute Name="PurchaseOption" Value="PURCHASE_OPTION" />
+        <Attribute Name="StockSize" Value="STOCK_SIZE_METRIC" />
+        <Attribute Name="StockSizeMetric" Value="STOCK_SIZE_METRIC" />
+        <Attribute Name="FinishTolerance" Value="FINISH_TOLERANCE" />
+        <Attribute Name="Quantity" Value="QUANTITY" />
+        <Attribute Name="Material" Value="P_MAT" />
+        <Attribute Name="FinishTolValue1" Value="6 MICRONS [V]" />
+        <Attribute Name="FinishTolValue2" Value="3 MICRONS [VV]" />
+        <Attribute Name="FinishTolValue3" Value="1 MICRONS [VVV]" />
+        <Attribute Name="Bom" Value="BOM" />
+        <Attribute Name="ClientPartName" Value="DB_PART_NAME" />
+        <Attribute Name="DetailSheet1" Value="SHT1" />
+		<Attribute Name="LayoutSheet1" Value ="" />
+        <Attribute Name="LayoutSheet2" Value="SHT1" />
+        <Attribute Name="LayoutSheet3" Value="SHT2" />
+        <Attribute Name="Sheet" Value="SHT" />
+        <Attribute Name="MMToInchConversation" Value="25.4" />
+        <Attribute Name="ClientStockSize" Value="STOCK_SIZE_METRIC" />
+        <Attribute Name="ToolClass" Value="SOURCE" />
+        <Attribute Name="ToolID" Value="VendPartNo" />
+		<Attribute Name="AltPurch" Value="AltPurch" />
+      </NA>
+    </VALIANT>
+  </CHRYSLER>
+  <!--OEM = DAIMLER-->
+  <DAIMLER>
+    <!--OEM = DAIMLER SUPPLIER = COMAU-->
+    <COMAU>
+      <!--OEM = DAIMLER SUPPLIER = COMAU DIVISION = CAR-->
+      <CAR>
+        <Attribute Name="PartName" Value="DETAIL_NAME" />
+        <Attribute Name="Shape" Value="DETAIL_SHAPE" />
+        <Attribute Name="SubDetailNumber" Value="SUB_DETAIL_NUMBER" />
+        <Attribute Name="Mass" Value="MASS" />
+        <Attribute Name="PurchaseOption" Value="PURCHASE_OPTION" />
+        <Attribute Name="StockSize" Value="STOCK_SIZE" />
+        <Attribute Name="StockSizeMetric" Value="STOCK_SIZE_METRIC" />
+        <Attribute Name="FinishTolerance" Value="FINISH_TOL" />
+        <Attribute Name="Quantity" Value="QUANTITY" />
+        <Attribute Name="Material" Value="Werkstoff" />
+        <Attribute Name="FinishTolValue1" Value="6.4 MICRONS [V]" />
+        <Attribute Name="FinishTolValue2" Value="3.2 MICRONS [VV]" />
+        <Attribute Name="FinishTolValue3" Value="0.8 MICRONS [VVV]" />
+        <Attribute Name="Bom" Value="" />
+        <Attribute Name="ClientPartName" Value="NOMENCLATURE_EN" />
+        <Attribute Name="DetailSheet1" Value="Sheet 001" />
+        <Attribute Name="LayoutSheet1" Value ="" />
+        <Attribute Name="LayoutSheet2" Value="Sheet 001" />
+        <Attribute Name="LayoutSheet3" Value="Sheet 002" />
+        <Attribute Name="Sheet" Value="Sheet " />
+        <Attribute Name="MMToInchConversation" Value="1" />
+        <Attribute Name="ClientStockSize" Value="Rohmass" />
+        <Attribute Name="ToolClass" Value="TOOL_CLASS" />
+        <Attribute Name="ToolID" Value="TOOL_ID" />
+		<Attribute Name="AltPurch" Value="" />
+		<Attribute Name="FinishTolValue1OnSymbol" Value="x" />
+		<Attribute Name="FinishTolValue2OnSymbol" Value="y" />
+		<Attribute Name="FinishTolValue3OnSymbol" Value="z" />
+      </CAR>
+      <!--OEM = DAIMLER SUPPLIER = COMAU DIVISION = TRUCK-->
+      <TRUCK>
+        <Attribute Name="PartName" Value="DETAIL_NAME" />
+        <Attribute Name="Shape" Value="DETAIL_SHAPE" />
+        <Attribute Name="SubDetailNumber" Value="SUB_DETAIL_NUMBER" />
+        <Attribute Name="Mass" Value="MASS" />
+        <Attribute Name="PurchaseOption" Value="PURCHASE_OPTION" />
+        <Attribute Name="StockSize" Value="STOCK_SIZE" />
+        <Attribute Name="StockSizeMetric" Value="STOCK_SIZE_METRIC" />
+        <Attribute Name="FinishTolerance" Value="FINISH_TOL" />
+        <Attribute Name="Quantity" Value="QUANTITY" />
+        <Attribute Name="Material" Value="Lieferant/Werkstoff_W060" />
+        <Attribute Name="FinishTolValue1" Value="6.4 MICRONS [V]" />
+        <Attribute Name="FinishTolValue2" Value="3.2 MICRONS [VV]" />
+        <Attribute Name="FinishTolValue3" Value="0.8 MICRONS [VVV]" />
+        <Attribute Name="Bom" Value="Stuecklistenrelevant_W060" />
+        <Attribute Name="ClientPartName" Value="Benennung_W060" />
+        <Attribute Name="DetailSheet1" Value="Sheet 001" />
+        <Attribute Name="LayoutSheet1" Value ="" />
+        <Attribute Name="LayoutSheet2" Value="Sheet 001" />
+        <Attribute Name="LayoutSheet3" Value="Sheet 002" />
+        <Attribute Name="Sheet" Value="Sheet " />
+        <Attribute Name="MMToInchConversation" Value="1" />
+        <Attribute Name="ClientStockSize" Value="Fertigmaße/Bestellbezeichnung_W060" />
+        <Attribute Name="ToolClass" Value="TOOL_CLASS" />
+        <Attribute Name="ToolID" Value="TOOL_ID" />
+		<Attribute Name="AltPurch" Value="" />
+		<Attribute Name="FinishTolValue1OnSymbol" Value="x" />
+		<Attribute Name="FinishTolValue2OnSymbol" Value="y" />
+		<Attribute Name="FinishTolValue3OnSymbol" Value="z" />
+      </TRUCK>
+    </COMAU>
+	<!--OEM = DAIMLER SUPPLIER = VALIANT-->
+	<VALIANT>
+	 <!--OEM = DAIMLER SUPPLIER = VALIANT DIVISION = CAR-->
+	  <CAR>
+	        <Attribute Name="PartName" Value="DETAIL_NAME" />
+			<Attribute Name="Shape" Value="DETAIL_SHAPE" />
+			<Attribute Name="SubDetailNumber" Value="SUB_DETAIL_NUMBER" />
+			<Attribute Name="Mass" Value="MASS" />
+			<Attribute Name="PurchaseOption" Value="PURCHASE_OPTION" />
+			<Attribute Name="StockSize" Value="STOCK_SIZE" />
+			<Attribute Name="StockSizeMetric" Value="STOCK_SIZE_METRIC" />
+			<Attribute Name="FinishTolerance" Value="FINISH_TOL" />
+			<Attribute Name="Quantity" Value="QUANTITY" />
+			<Attribute Name="Material" Value="Werkstoff" />
+			<Attribute Name="FinishTolValue1" Value="6.4 MICRONS [V]" />
+			<Attribute Name="FinishTolValue2" Value="3.2 MICRONS [VV]" />
+			<Attribute Name="FinishTolValue3" Value="0.8 MICRONS [VVV]" />
+			<Attribute Name="Bom" Value="" />
+			<Attribute Name="ClientPartName" Value="NOMENCLATURE_EN" />
+			<Attribute Name="DetailSheet1" Value="Sheet 001" />
+			<Attribute Name="LayoutSheet1" Value ="" />
+			<Attribute Name="LayoutSheet2" Value="Sheet 001" />
+			<Attribute Name="LayoutSheet3" Value="Sheet 002" />
+			<Attribute Name="Sheet" Value="Sheet " />
+			<Attribute Name="MMToInchConversation" Value="1" />
+			<Attribute Name="ClientStockSize" Value="Rohmass" />
+			<Attribute Name="ToolClass" Value="TOOL_CLASS" />
+			<Attribute Name="ToolID" Value="TOOL_ID" />
+			<Attribute Name="AltPurch" Value="" />
+			<Attribute Name="FinishTolValue1OnSymbol" Value="x" />
+			<Attribute Name="FinishTolValue2OnSymbol" Value="y" />
+			<Attribute Name="FinishTolValue3OnSymbol" Value="z" />  
+	  </CAR>
+	</VALIANT>
+  </DAIMLER>
+  <!--OEM = FIAT-->
+  <FIAT>
+    <!--OEM = FIAT SUPPLIER = COMAU-->
+    <COMAU>
+      <!--OEM = FIAT SUPPLIER = COMAU DIVISION = NA-->
+      <NA>
+        <Attribute Name="PartName" Value="DETAIL_NAME" />
+        <Attribute Name="Shape" Value="DETAIL_SHAPE" />
+        <Attribute Name="SubDetailNumber" Value="SUB_DETAIL_NUMBER" />
+        <Attribute Name="Mass" Value="MASS" />
+        <Attribute Name="PurchaseOption" Value="" />
+        <Attribute Name="StockSize" Value="STOCK_SIZE" />
+        <Attribute Name="StockSizeMetric" Value="STOCK_SIZE" />
+        <Attribute Name="FinishTolerance" Value="FINISH_TOLERANCE" />
+        <Attribute Name="Quantity" Value="QUANTITY" />
+        <Attribute Name="Material" Value="CM_Material" />
+        <Attribute Name="FinishTolValue1" Value="6.3 MICRONS [V]" />
+        <Attribute Name="FinishTolValue2" Value="3.2 MICRONS [VV]" />
+        <Attribute Name="FinishTolValue3" Value="1.6 MICRONS [VVV]" />
+        <Attribute Name="Bom" Value="BOM" />
+        <Attribute Name="ClientPartName" Value="CM_Comau_Description_EN" />
+        <Attribute Name="DetailSheet1" Value="SHT1" />
+        <Attribute Name="LayoutSheet1" Value ="SHT1" />
+        <Attribute Name="LayoutSheet2" Value="SHT2" />
+        <Attribute Name="LayoutSheet3" Value="SHT3" />
+        <Attribute Name="Sheet" Value="SHT" />
+        <Attribute Name="MMToInchConversation" Value="1" />
+        <Attribute Name="ClientStockSize" Value="CM_Stock_Size" />
+        <Attribute Name="ToolClass" Value="" />
+        <Attribute Name="ToolID" Value="" />
+		<Attribute Name="AltPurch" Value="" />
+		<Attribute Name="FinishTolValue1OnSymbol" Value="6.3" />
+		<Attribute Name="FinishTolValue2OnSymbol" Value="3.2" />
+		<Attribute Name="FinishTolValue3OnSymbol" Value="1.6" />
+      </NA>
+    </COMAU>
+  </FIAT>
+  <!--OEM = GM-->
+  <GM>
+    <!--OEM = GM SUPPLIER = COMAU-->
+    <COMAU>
+      <!--OEM = GM SUPPLIER = COMAU DIVISION = NA-->
+      <NA>
+        <Attribute Name="PartName" Value="DB_PART_NAME" />
+        <Attribute Name="Shape" Value="SHAPE" />
+        <Attribute Name="SubDetailNumber" Value="SUB_DET_NUM" />
+        <Attribute Name="Mass" Value="P_MASS" />
+        <Attribute Name="PurchaseOption" Value="PURCH_OPTION" />
+        <Attribute Name="StockSize" Value="STOCK_SIZE" />
+        <Attribute Name="StockSizeMetric" Value="STOCK_SIZE_METRIC" />
+        <Attribute Name="FinishTolerance" Value="FINISH_TOL" />
+        <Attribute Name="Quantity" Value="QTY" />
+        <Attribute Name="Material" Value="P_MAT" />
+        <Attribute Name="FinishTolValue1" Value="6.3 MICRONS [V]" />
+        <Attribute Name="FinishTolValue2" Value="3.2 MICRONS [VV]" />
+        <Attribute Name="FinishTolValue3" Value="0.8 MICRONS [VVV]" />
+        <Attribute Name="Bom" Value="BOM" />
+        <Attribute Name="ClientPartName" Value="DB_PART_NAME" />
+        <Attribute Name="DetailSheet1" Value="SHT1" />
+        <Attribute Name="LayoutSheet1" Value ="SHT1" />
+        <Attribute Name="LayoutSheet2" Value="SHT2" />
+        <Attribute Name="LayoutSheet3" Value="SHT3" />
+        <Attribute Name="Sheet" Value="SHT" />
+        <Attribute Name="MMToInchConversation" Value="25.4" />
+        <Attribute Name="ClientStockSize" Value="STOCK_SIZE_METRIC" />
+        <Attribute Name="ToolClass" Value="TOOL_CLASS" />
+        <Attribute Name="ToolID" Value="TOOL_ID" />
+		<Attribute Name="AltPurch" Value="" />
+		<Attribute Name="FinishTolValue1OnSymbol" Value="6.3" />
+		<Attribute Name="FinishTolValue2OnSymbol" Value="3.2" />
+		<Attribute Name="FinishTolValue3OnSymbol" Value="0.8" />
+      </NA>
+    </COMAU>
+    <!--OEM = GM SUPPLIER = VALIANT-->
+    <VALIANT>
+      <!--OEM = GM SUPPLIER = VALIANT DIVISION = NA-->
+      <NA>
+        <Attribute Name="PartName" Value="DB_PART_NAME" />
+        <Attribute Name="Shape" Value="SHAPE" />
+        <Attribute Name="SubDetailNumber" Value="SUB_DET_NUM" />
+        <Attribute Name="Mass" Value="P_MASS" />
+        <Attribute Name="PurchaseOption" Value="PURCH_OPTION" />
+        <Attribute Name="StockSize" Value="STOCK_SIZE" />
+        <Attribute Name="StockSizeMetric" Value="STOCK_SIZE_METRIC" />
+        <Attribute Name="FinishTolerance" Value="FINISH_TOL" />
+        <Attribute Name="Quantity" Value="QTY" />
+        <Attribute Name="Material" Value="P_MAT" />
+        <Attribute Name="FinishTolValue1" Value="6.3 MICRONS [V]" />
+        <Attribute Name="FinishTolValue2" Value="3.2 MICRONS [VV]" />
+        <Attribute Name="FinishTolValue3" Value="0.8 MICRONS [VVV]" />
+        <Attribute Name="Bom" Value="BOM" />
+        <Attribute Name="ClientPartName" Value="DB_PART_NAME" />
+        <Attribute Name="DetailSheet1" Value="SHT1" />
+        <Attribute Name="LayoutSheet1" Value ="SHT1" />
+        <Attribute Name="LayoutSheet2" Value="SHT2" />
+        <Attribute Name="LayoutSheet3" Value="SHT3" />
+        <Attribute Name="Sheet" Value="SHT" />
+        <Attribute Name="MMToInchConversation" Value="25.4" />
+        <Attribute Name="ClientStockSize" Value="STOCK_SIZE_METRIC" />
+        <Attribute Name="ToolClass" Value="TOOL_CLASS" />
+        <Attribute Name="ToolID" Value="TOOL_ID" />
+		<Attribute Name="AltPurch" Value="" />
+		<Attribute Name="FinishTolValue1OnSymbol" Value="6.3" />
+		<Attribute Name="FinishTolValue2OnSymbol" Value="3.2" />
+		<Attribute Name="FinishTolValue3OnSymbol" Value="0.8" />
+      </NA>
+    </VALIANT>
+  </GM>
+  <!--OEM = GESTAMP-->
+  <GESTAMP>
+  <!--OEM = GESTAMP SUPPLIER =VALIANT-->
+    <VALIANT>
+      <!--OEM = GESTAMP SUPPLIER = VALIANT DIVISION = NA-->
+      <NA>
+        <Attribute Name="PartName" Value="DETAIL_NAME" />
+        <Attribute Name="Shape" Value="DETAIL_SHAPE" />
+		<Attribute Name="SubDetailNumber" Value="SUB_DETAIL_NUMBER" />
+        <Attribute Name="Mass" Value="MASS" />
+        <Attribute Name="PurchaseOption" Value="PURCHASE_OPTION" />
+        <Attribute Name="StockSize" Value="STOCK_SIZE_METRIC" />
+        <Attribute Name="StockSizeMetric" Value="STOCK_SIZE_METRIC" />
+        <Attribute Name="FinishTolerance" Value="FINISH_TOLERANCE" />
+        <Attribute Name="Quantity" Value="QUANTITY" />
+        <Attribute Name="Material" Value="P_MAT" />
+        <Attribute Name="FinishTolValue1" Value="6 MICRONS [V]" />
+        <Attribute Name="FinishTolValue2" Value="3 MICRONS [VV]" />
+        <Attribute Name="FinishTolValue3" Value="1 MICRONS [VVV]" />
+        <Attribute Name="Bom" Value="BOM" />
+        <Attribute Name="ClientPartName" Value="DB_PART_NAME" />
+        <Attribute Name="DetailSheet1" Value="SHT1" />
+		<Attribute Name="LayoutSheet1" Value ="" />
+        <Attribute Name="LayoutSheet2" Value="SHT1" />
+        <Attribute Name="LayoutSheet3" Value="SHT2" />
+        <Attribute Name="Sheet" Value="SHT" />
+        <Attribute Name="MMToInchConversation" Value="25.4" />
+        <Attribute Name="ClientStockSize" Value="STOCK_SIZE_METRIC" />
+        <Attribute Name="ToolClass" Value="SOURCE" />
+        <Attribute Name="ToolID" Value="VendPartNo" />
+		<Attribute Name="AltPurch" Value="AltPurch" />
+      </NA>
+    </VALIANT>
+  </GESTAMP>
+</OEMAttributes>
