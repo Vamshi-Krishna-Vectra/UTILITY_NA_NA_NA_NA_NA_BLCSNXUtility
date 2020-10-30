@@ -9,3 +9,14 @@ D:\Vectra\Utilities\StandAloneB_LCS\StandAloneB_LCS\obj\Debug\StandAloneB_LCS.xm
 D:\Vectra\Utilities\StandAloneB_LCS\StandAloneB_LCS\obj\Debug\StandAloneB_LCS.pdb
 D:\Vectra\Utilities\StandAloneB_LCS\StandAloneB_LCS\obj\Debug\StandAloneB_LCS.vbproj.ResolveComReference.cache
 D:\Vectra\Utilities\StandAloneB_LCS\StandAloneB_LCS\obj\Debug\StandAloneB_LCS.vbprojAssemblyReference.cache
+D:\GitHub\Utilities\UTILITY_NA_NA_NA_NA_NA_BLCSNXUtility\StandAloneB_LCS\bin\Debug\StandAloneB_LCS.dll
+D:\GitHub\Utilities\UTILITY_NA_NA_NA_NA_NA_BLCSNXUtility\StandAloneB_LCS\bin\Debug\StandAloneB_LCS.pdb
+D:\GitHub\Utilities\UTILITY_NA_NA_NA_NA_NA_BLCSNXUtility\StandAloneB_LCS\bin\Debug\StandAloneB_LCS.xml
+D:\GitHub\Utilities\UTILITY_NA_NA_NA_NA_NA_BLCSNXUtility\StandAloneB_LCS\obj\Debug\StandAloneB_LCS.vbprojAssemblyReference.cache
+D:\GitHub\Utilities\UTILITY_NA_NA_NA_NA_NA_BLCSNXUtility\StandAloneB_LCS\obj\Debug\StandAloneB_LCS.vbproj.ResolveComReference.cache
+D:\GitHub\Utilities\UTILITY_NA_NA_NA_NA_NA_BLCSNXUtility\StandAloneB_LCS\obj\Debug\StandAloneB_LCS.Resources.resources
+D:\GitHub\Utilities\UTILITY_NA_NA_NA_NA_NA_BLCSNXUtility\StandAloneB_LCS\obj\Debug\StandAloneB_LCS.vbproj.GenerateResource.cache
+D:\GitHub\Utilities\UTILITY_NA_NA_NA_NA_NA_BLCSNXUtility\StandAloneB_LCS\obj\Debug\StandAloneB_LCS.vbproj.CoreCompileInputs.cache
+D:\GitHub\Utilities\UTILITY_NA_NA_NA_NA_NA_BLCSNXUtility\StandAloneB_LCS\obj\Debug\StandAloneB_LCS.dll
+D:\GitHub\Utilities\UTILITY_NA_NA_NA_NA_NA_BLCSNXUtility\StandAloneB_LCS\obj\Debug\StandAloneB_LCS.xml
+D:\GitHub\Utilities\UTILITY_NA_NA_NA_NA_NA_BLCSNXUtility\StandAloneB_LCS\obj\Debug\StandAloneB_LCS.pdb
